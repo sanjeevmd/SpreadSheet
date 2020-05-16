@@ -1,0 +1,23 @@
+{
+    "name": "assignment-6-sanjeevmahalakshmidharanipathy",
+    "version": "1.0.0",
+    "description": "Purpose: To learn Javascript, RxJS, and CSS.\r Name: Sanjeev Mahalakshmi Dharanipathy - 001310589\r Technologies Used : JavaScript, HTML, CSS, JavaScript\r Prerequisite: Have a visual studio code to run this code Clone the repo using git clone cmd\r assignment-6-sanjeevmahalakshmidharanipathy created by GitHub Classroom",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neu-mis-info6150-spring-2020/assignment-6-sanjeevmahalakshmidharanipathy.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/neu-mis-info6150-spring-2020/assignment-6-sanjeevmahalakshmidharanipathy/issues"
+    },
+    "homepage": "https://github.com/neu-mis-info6150-spring-2020/assignment-6-sanjeevmahalakshmidharanipathy#readme",
+    "dependencies": {
+        "node-modules": "^1.0.1",
+        "rxjs": "^6.5.4"
+    }
+}

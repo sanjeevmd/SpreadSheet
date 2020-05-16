@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SpreadSheet</title>
+    <!-- link tag to refer stylesheet -->
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+</head>
+
+<body>
+    <nav class="sticky">
+        <div class="title">
+            SpreadSheet
+        </div>
+        <!-- div class for buttons -->
+        <div class="options">
+            <button id="import">Import</button>
+            <button id="export">Export</button>
+            <button id="addRow">Add Row</button>
+            <button id="addCol">Add Column</button>
+            <button id="delRow">Delete Row</button>
+            <button id="delCol">Delete Column</button>
+        </div>
+    </nav>
+    <!-- spreadsheet entry -->
+    <div id="SpreadSheet">
+    </div>
+    <input type="file" id="FileUpload1" class="fileUpload" />
+    <!-- cdn to refer rxjs -->
+    <script src="https://unpkg.com/rxjs/bundles/rxjs.umd.min.js"></script>
+    <!-- script tag for js -->
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>
